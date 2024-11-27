@@ -9,7 +9,7 @@
     <h1>🏥 Hospital Management System</h1>
     <p>A robust hospital management system built with the MERN stack, featuring role-based authentication and authorization for <strong>Admin</strong>, <strong>Doctor</strong>, and <strong>Patient</strong> roles. This system efficiently manages hospital operations such as patient record tracking, scheduling, and user authentication.</p>
 
-    <hr>
+    
 
     <h2>📖 Table of Contents</h2>
     <ul>
@@ -24,7 +24,7 @@
         <li><a href="#license">License</a></li>
     </ul>
 
-    <hr>
+    
 
     <h2 id="features">✨ Features</h2>
     <ul>
@@ -36,7 +36,7 @@
         <li>Error handling and validation for a robust backend system.</li>
     </ul>
 
-    <hr>
+    
 
     <h2 id="tech-stack">💻 Tech Stack</h2>
     <ul>
@@ -48,7 +48,7 @@
         <li><strong>Hosting:</strong> AWS</li>
     </ul>
 
-    <hr>
+    
 
     <h2 id="project-structure">📂 Project Structure</h2>
     <pre>
@@ -65,7 +65,7 @@ Hospital-Management-System/
 └── server.js           # Main entry point for the application
     </pre>
 
-    <hr>
+    
 
     <h2 id="setup-and-installation">⚙️ Setup and Installation</h2>
     <ol>
@@ -94,12 +94,12 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
         </li>
     </ol>
 
-    <hr>
+    
 
     <h2 id="usage">🚀 Usage</h2>
     <p>To test the APIs, use tools like <a href="https://www.postman.com/" target="_blank">Postman</a>. Ensure the backend server is running and the database is connected.</p>
 
-    <hr>
+    
 
     <h2 id="api-endpoints">🔗 API Endpoints</h2>
     <p>Below are some key API endpoints:</p>
@@ -111,7 +111,7 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
         <li><strong>GET /api/doctor/appointments</strong> - View all assigned appointments (Doctor only).</li>
     </ul>
 
-    <hr>
+    
 
     <h2 id="future-enhancements">🚧 Future Enhancements</h2>
     <ul>
